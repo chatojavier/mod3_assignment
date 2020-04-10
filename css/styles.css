@@ -1,0 +1,11 @@
+.container.food-type {
+	background-color: lightgray;
+	height: 1000px;
+	width: 90%;
+} 
+.container.food-type h3 {
+	text-align: center;
+}
+#navbar-collapse-1 ul {
+	background-color: pink;
+}
